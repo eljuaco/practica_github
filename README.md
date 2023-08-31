@@ -1,4 +1,6 @@
-
+joaquin 
+personaje
+casa
 
 
 
